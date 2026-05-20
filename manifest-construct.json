@@ -1,0 +1,18 @@
+{
+  "name": "H.A.I Construct",
+  "short_name": "H.A.I Construct",
+  "description": "Construction Report Generation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E1F",
+  "theme_color": "#C9A84C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%23C9A84C' width='512' height='512'/><text y='360' font-size='280' fill='%230A0E1F' font-family='serif' font-weight='bold' text-anchor='middle' x='256'>HC</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
